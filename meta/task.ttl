@@ -1,0 +1,4 @@
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Data/project> <http://purl.org/NET/cpan-uri/terms#requires> "DBD::SQLite" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Data/project> <http://purl.org/NET/cpan-uri/terms#requires> "DBI" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Data/project> <http://purl.org/NET/cpan-uri/terms#requires> "JSON" .
+<http://purl.org/NET/cpan-uri/dist/Task-BeLike-TOBYINK-Data/project> <http://purl.org/NET/cpan-uri/terms#requires> "Spreadsheet::Wright" .

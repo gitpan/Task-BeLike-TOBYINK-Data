@@ -1,0 +1,33 @@
+---
+abstract: 'be like TOBYINK and use these Data stuffz'
+author:
+  - 'Toby Inkster <tobyink@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.42
+  Test::More: 0.61
+configure_requires:
+  ExtUtils::MakeMaker: 6.42
+distribution_type: module
+generated_by: 'Module::Install version 1.02'
+keywords: []
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: Task::BeLike::TOBYINK::Data
+name: Task-BeLike-TOBYINK-Data
+no_index:
+  directory:
+    - inc
+    - xt
+requires:
+  DBD::SQLite: 0
+  DBI: 0
+  JSON: 0
+  Spreadsheet::Wright: 0
+  perl: 5.10.0
+resources:
+  bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=Task-BeLike-TOBYINK-Data
+  homepage: https://metacpan.org/release/Task-BeLike-TOBYINK-Data
+  license: http://dev.perl.org/licenses/
+version: 2012.150
